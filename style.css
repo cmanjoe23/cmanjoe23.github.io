@@ -1,0 +1,26 @@
+body {
+  background: hotpink;
+}
+p {
+  color: lightcyan;
+}
+h1 {
+  font-weight: lighter;
+  color: bla black;
+  text-align: center;
+}
+h2 {
+    
+    font-weight: lighter
+     color: black
+}
+h3 {
+  color: orangered
+}
+
+img {
+  float:none;
+  border-style: solid;
+  border-color: aqua;
+    width: 750px
+}
